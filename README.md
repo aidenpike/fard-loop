@@ -1,5 +1,5 @@
 # fard-loop
-Create an infinite loop that outputs "fard" in every coding language possible. Function name needs to be fard, not main, if possible.
+Create an infinite loop that outputs "fard" in every coding language possible. Function name needs to be fard, not main, if possible. Please add your addition to the README.
 
 ## Extension List
 - .c - C
