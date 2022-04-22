@@ -16,3 +16,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 .rs - Rust
 .swift - Swift
 .vb - (also garbage) Visual Basic
+.md - Markdown
