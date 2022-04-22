@@ -2,11 +2,15 @@
 Create an infinite loop that outputs "fard" in every coding language possible. Function name needs to be fard, not main, if possible. Please add your addition to the README.
 
 ## Extension List
+- .bas - BASIC
+- .bat - Batch
 - .c - C
 - .cpp - C++
 - .cs - C#
 - .fs - F#
+- .hs - Haskell
 - .java - Java
+- .js - Javascript
 - .lua - Lua
 - .m - (garbage) Objective C
 - .php - PHP
@@ -17,6 +21,5 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .swift - Swift
 - .vb - (also garbage) Visual Basic
 - .md - Markdown
-- .bat - Batch
 - .sh - Bash
 - .pypp - Python++ 
