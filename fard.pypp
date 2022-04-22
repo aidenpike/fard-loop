@@ -1,0 +1,2 @@
+# Can't do infinite loops, but just really large numbers.
+loop out "fard" 999999999
