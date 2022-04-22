@@ -7,6 +7,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .c - C
 - .cpp - C++
 - .cs - C#
+- .dart - Dart
 - .fs - F#
 - .hs - Haskell
 - .java - Java
@@ -15,14 +16,13 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .m - (garbage) Objective C
 - .php - PHP
 - .py - Python
+- .pypp - Python++
 - .r - R
+- .raku - Raku
 - .rb - Ruby
 - .rs - Rust
-- .swift - Swift
-- .vb - (also garbage) Visual Basic
-- .md - Markdown
 - .sh - Bash
-- .pypp - Python++ 
+- .swift - Swift
 - .tcl - TCL
-- .raku - Raku
-- .dart - Dart
+- .ts - TypeScript
+- .vb - (also garbage) Visual Basic
