@@ -1,0 +1,2 @@
+10 PRINT "fard"
+20 GOTO 10
