@@ -23,3 +23,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .md - Markdown
 - .sh - Bash
 - .pypp - Python++ 
+- .tcl - TCL
