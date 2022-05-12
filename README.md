@@ -30,3 +30,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .scm - (Actual hellfire) Scheme
 - .abap - ABAP
 - .awk - AWK
+- .adb - ADA
