@@ -1,6 +1,6 @@
 #include <stdio.h> 
-int fard(void) {
-    while (1 == 1)
+int main(void) {
+    while (1)
         printf("fard\n");
     return 0;
 }
