@@ -29,3 +29,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .vb - (also garbage) Visual Basic
 - .scm - (Actual hellfire) Scheme
 - .abap - ABAP
+- .awk - AWK
