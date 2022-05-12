@@ -1,0 +1,7 @@
+HAI 1.2
+    CAN HAS STDIO?
+    
+    IM IN YR LOOPY
+        VISIBLE "fard"
+    IM OUTTA YR LOOPY
+KTHXBYE
