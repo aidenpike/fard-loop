@@ -9,6 +9,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .cs - C#
 - .dart - Dart
 - .fs - F#
+- .go - Go
 - .hs - Haskell
 - .java - Java
 - .js - Javascript
