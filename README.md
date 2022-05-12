@@ -27,3 +27,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .tcl - TCL
 - .ts - TypeScript
 - .vb - (also garbage) Visual Basic
+- .scm - (Actual hellfire) Scheme
