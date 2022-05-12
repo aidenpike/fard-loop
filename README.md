@@ -28,3 +28,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .ts - TypeScript
 - .vb - (also garbage) Visual Basic
 - .scm - (Actual hellfire) Scheme
+- .abap - ABAP
