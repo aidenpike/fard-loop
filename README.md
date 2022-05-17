@@ -19,6 +19,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .m - (garbage) Objective C
 - .nim - Nim
 - .php - PHP
+- .pl - Perl
 - .py - Python
 - .pypp - Python++
 - .r - R
