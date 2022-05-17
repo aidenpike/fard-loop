@@ -13,6 +13,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .hs - Haskell
 - .java - Java
 - .js - Javascript
+- .kt - Kotlin
 - .lua - Lua
 - .m - (garbage) Objective C
 - .php - PHP
