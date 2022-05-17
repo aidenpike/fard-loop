@@ -12,10 +12,12 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .go - Go
 - .hs - Haskell
 - .java - Java
+- .jl - Julia
 - .js - Javascript
 - .kt - Kotlin
 - .lua - Lua
 - .m - (garbage) Objective C
+- .nim - Nim
 - .php - PHP
 - .py - Python
 - .pypp - Python++
