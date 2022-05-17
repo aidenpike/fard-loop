@@ -17,6 +17,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .kt - Kotlin
 - .lua - Lua
 - .m - (garbage) Objective C
+- .nim - Nim
 - .php - PHP
 - .py - Python
 - .pypp - Python++
