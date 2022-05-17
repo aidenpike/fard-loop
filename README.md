@@ -35,3 +35,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .awk - AWK
 - .adb - ADA
 - .lol - LOLCAT
+- .scala - Scala
