@@ -1,0 +1,5 @@
+// This doesn't actually work yet, as I haven't gotten this far in the langauge, but I'm going to do this now before I forget.
+
+while (true) {
+  exec out("fard")
+}
