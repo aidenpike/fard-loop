@@ -1,0 +1,3 @@
+run while (true) {
+  exec out("fard")
+}
