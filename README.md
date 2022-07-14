@@ -7,6 +7,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .awk - [AWK](https://en.wikipedia.org/wiki/AWK)
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
+- .bf - (absolute bullcrap) BrainF\*ck
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - .cop - [Copper](https://github.com/kryllyxofficial01/copper)
 - .cpp - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
