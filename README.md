@@ -37,3 +37,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .adb - ADA
 - .lol - LOLCAT
 - .scala - Scala
+- .cop - Copper
