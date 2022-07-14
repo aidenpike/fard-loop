@@ -11,6 +11,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .cop - [Copper](https://github.com/kryllyxofficial01/copper)
 - .cpp - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - .cs - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- .clj - [Clojure](https://en.wikipedia.org/wiki/Clojure)
 - .dart - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - .fs - [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 - .go - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
