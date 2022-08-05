@@ -8,7 +8,6 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-- .cop - [Copper](https://github.com/kryllyxofficial01/copper)
 - .cpp - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - .cs - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - .clj - [Clojure](https://en.wikipedia.org/wiki/Clojure)
