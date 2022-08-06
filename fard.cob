@@ -14,7 +14,7 @@
 
 
        PERFORM FOREVER
-           DISPLAY "FARD"
+           DISPLAY "fard"
        END-PERFORM
        STOP RUN
        .
