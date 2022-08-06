@@ -38,3 +38,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .tcl - [TCL](https://en.wikipedia.org/wiki/Tcl)
 - .ts - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
+- .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
