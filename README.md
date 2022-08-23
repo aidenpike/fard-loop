@@ -40,3 +40,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 - .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
+- .zig - [Zig](https://ziglang.org/)
