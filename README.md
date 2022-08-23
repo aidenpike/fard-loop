@@ -4,6 +4,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 ## Extension List
 - .abap - [ABAP](https://en.wikipedia.org/wiki/ABAP)
 - .adb - [ADA](https://en.wikipedia.org/wiki/Ada_(programming_language))
+- .ino - [Arduino](https://www.arduino.cc/)
 - .awk - [AWK](https://en.wikipedia.org/wiki/AWK)
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
