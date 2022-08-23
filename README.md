@@ -26,7 +26,6 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .php - [PHP](https://en.wikipedia.org/wiki/PHP)
 - .pl - [Perl](https://en.wikipedia.org/wiki/Perl)
 - .py - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
-- .pypp - Python++
 - .r - [R](https://en.wikipedia.org/wiki/R_(programming_language))
 - .raku - [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language))
 - .rb - [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
@@ -40,3 +39,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 - .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
+- .zig - [Zig](https://ziglang.org/)
