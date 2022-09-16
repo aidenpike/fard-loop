@@ -26,6 +26,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .lua - [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
 - .m - (garbage) [Objective C](https://en.wikipedia.org/wiki/Objective-C)
 - .nim - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
+- .ook - [Ook](https://www.dangermouse.net/esoteric/ook.html)
 - .php - [PHP](https://en.wikipedia.org/wiki/PHP)
 - .pl - [Perl](https://en.wikipedia.org/wiki/Perl)
 - .py - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
