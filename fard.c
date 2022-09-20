@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int fard(void) {
+int main(void) {
     while (1 == 1)
         printf("fard\n");
     return 0;
