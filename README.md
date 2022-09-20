@@ -16,6 +16,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .cs - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - .clj - [Clojure](https://en.wikipedia.org/wiki/Clojure)
 - .dart - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
+- .ew - [Euphoria](https://en.wikipedia.org/wiki/Euphoria_(programming_language))
 - .fet - [Fetlang](https://github.com/fetlang/fetlang)
 - .fs - [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 - .go - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
