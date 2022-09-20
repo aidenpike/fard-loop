@@ -10,6 +10,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
 - .be - [Befunge](https://github.com/SystemFw/Befunge-93)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- .cop - [Copper](https://github.com/copper-lang/copper)
 - .cpp - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - .cs - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - .clj - [Clojure](https://en.wikipedia.org/wiki/Clojure)
