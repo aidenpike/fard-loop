@@ -37,6 +37,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .raku - [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language))
 - .rb - [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 - .rs - [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- .s - [x86 Assembly](https://en.m.wikipedia.org/wiki/X86_assembly_language)
 - .scala - [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language))
 - .scm - (Actual hellfire) [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - .sh - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
