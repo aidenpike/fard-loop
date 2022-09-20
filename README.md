@@ -47,3 +47,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .zig - [Zig](https://ziglang.org/)
+
+
+##Language Counter
+46 Programming Languages - All which infinitely loop fard
