@@ -1,0 +1,6 @@
+atom fard
+fard = “fard”
+
+while true do
+  puts(1,fard)
+end while
