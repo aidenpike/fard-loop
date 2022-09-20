@@ -49,5 +49,5 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .zig - [Zig](https://ziglang.org/)
 
 
-##Language Counter
+## Language Counter
 46 Programming Languages - All which infinitely loop fard
