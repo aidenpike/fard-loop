@@ -9,6 +9,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
 - .be - [Befunge](https://github.com/SystemFw/Befunge-93)
+- .bf - [Brainf\*ck](https://en.m.wikipedia.org/wiki/Brainfuck)
 - .brat - [Brat](https://github.com/presidentbeef/brat)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - .cyc - [Cyclone](https://cyclone.thelanguage.org)
