@@ -10,5 +10,5 @@ _start:
 	jmp _start
 		
 section .data
-	msg		db "fard",0xa
-	len		equ $-msg
+	msg db "fard",0xa
+	len equ $-msg
