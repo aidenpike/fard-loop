@@ -23,6 +23,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .cyc - [Cyclone](https://cyclone.thelanguage.org)
 - .d - [D](https://dlang.org/)
 - .dart - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
+- .el - [Emacs Lisp](https://en.m.wikipedia.org/wiki/Emacs_Lisp)
 - .ew - [Euphoria](https://en.wikipedia.org/wiki/Euphoria_(programming_language))
 - .f90 - [Fortran](https://rosettacode.org/wiki/Category:Fortran)
 - .fet - [Fetlang](https://github.com/fetlang/fetlang)
@@ -65,4 +66,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-58 Programming Languages - All which infinitely loop fard (*sigh*)
+59 Programming Languages - All which infinitely loop fard (*sigh*)
