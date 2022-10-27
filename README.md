@@ -27,6 +27,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .fet - [Fetlang](https://github.com/fetlang/fetlang)
 - .fs - [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 - .go - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
+- .gosu - [Gosu](https://gosu-lang.github.io/)
 - .hs - [Haskell](https://en.wikipedia.org/wiki/Haskell)
 - .java - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - .jl - [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language))
@@ -61,4 +62,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-54 Programming Languages - All which infinitely loop fard (*sigh*)
+55 Programming Languages - All which infinitely loop fard (*sigh*)
