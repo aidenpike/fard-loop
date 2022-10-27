@@ -58,6 +58,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .spwn - [SPWN](https://spu7nix.net/spwn/#/)
 - .swift - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - .tcl - [TCL](https://en.wikipedia.org/wiki/Tcl)
+- .trifh.pl - [Prolog](https://en.m.wikipedia.org/wiki/Prolog)
 - .ts - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 - .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
@@ -66,4 +67,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-59 Programming Languages - All which infinitely loop fard (*sigh*)
+60 Programming Languages - All which infinitely loop fard (*sigh*)
