@@ -13,13 +13,14 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bf - [Brainf\*ck](https://en.m.wikipedia.org/wiki/Brainfuck)
 - .brat - [Brat](https://github.com/presidentbeef/brat)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-- .cyc - [Cyclone](https://cyclone.thelanguage.org)
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .coffee - [CoffeeScript](https://coffeescript.org/)
 - .cop - [Copper](https://github.com/copper-lang/copper)
 - .cpp - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- .cr - [Crystal](https://crystal-lang.org/reference/1.6/index.html)
 - .cs - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - .clj - [Clojure](https://en.wikipedia.org/wiki/Clojure)
+- .cyc - [Cyclone](https://cyclone.thelanguage.org)
 - .d - [D](https://dlang.org/)
 - .dart - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
 - .ew - [Euphoria](https://en.wikipedia.org/wiki/Euphoria_(programming_language))
@@ -64,4 +65,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-57 Programming Languages - All which infinitely loop fard (*sigh*)
+58 Programming Languages - All which infinitely loop fard (*sigh*)
