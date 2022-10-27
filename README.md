@@ -46,6 +46,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .scala - [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language))
 - .scm - (Actual hellfire) [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - .sh - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- .spwn - [SPWN](https://spu7nix.net/spwn/#/)
 - .swift - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - .tcl - [TCL](https://en.wikipedia.org/wiki/Tcl)
 - .ts - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
@@ -56,4 +57,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-51 Programming Languages - All which infinitely loop fard (*sigh*)
+52 Programming Languages - All which infinitely loop fard (*sigh*)
