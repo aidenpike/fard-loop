@@ -45,6 +45,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .r - [R](https://en.wikipedia.org/wiki/R_(programming_language))
 - .raku - [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language))
 - .rb - [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+- .re - [Reason](https://reasonml.github.io/en/)
 - .rkt - [Racket](https://racket-lang.org/)
 - .rs - [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 - .s - [x86 Assembly](https://en.m.wikipedia.org/wiki/X86_assembly_language)
@@ -63,4 +64,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-56 Programming Languages - All which infinitely loop fard (*sigh*)
+57 Programming Languages - All which infinitely loop fard (*sigh*)
