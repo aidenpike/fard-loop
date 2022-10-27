@@ -1,0 +1,3 @@
+while_loop(() => 1 == 1, () {
+    $.print("fard")
+})
