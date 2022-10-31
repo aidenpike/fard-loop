@@ -43,6 +43,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .ook - [Ook](https://www.dangermouse.net/esoteric/ook.html)
 - .php - [PHP](https://en.wikipedia.org/wiki/PHP)
 - .pl - [Perl](https://en.wikipedia.org/wiki/Perl)
+- .ps1 - [Powershell](https://en.m.wikipedia.org/wiki/PowerShell)
 - .py - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 - .r - [R](https://en.wikipedia.org/wiki/R_(programming_language))
 - .raku - [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language))
@@ -67,4 +68,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-60 Programming Languages - All which infinitely loop fard (*sigh*)
+61 Programming Languages - All which infinitely loop fard (*sigh*)
