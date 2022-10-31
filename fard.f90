@@ -1,6 +1,6 @@
-program spam
+program fard
   implicit none
   do
     write(*,*) 'fard'
   end do
-end program spam
+end program fard
