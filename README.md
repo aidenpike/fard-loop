@@ -6,6 +6,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .adb - [ADA](https://en.wikipedia.org/wiki/Ada_(programming_language))
 - .arnoldc - [ArnoldC](https://github.com/lhartikk/ArnoldC)
 - .awk - [AWK](https://en.wikipedia.org/wiki/AWK)
+- .b - (not sure)[B](https://en.wikipedia.org/wiki/B_(programming_language))
 - .bal - [Ballerina](https://ballerina.io/)
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
@@ -31,6 +32,8 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .go - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
 - .gosu - [Gosu](https://gosu-lang.github.io/)
 - .hs - [Haskell](https://en.wikipedia.org/wiki/Haskell)
+- .hx - [Haxe](https://en.wikipedia.org/wiki/Haxe)
+- .ipynb - [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)
 - .java - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - .jl - [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language))
 - .js - [Javascript](https://en.wikipedia.org/wiki/JavaScript)
@@ -41,6 +44,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .mli - [OCaml](https://ocaml.org/)
 - .nim - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
 - .ook - [Ook](https://www.dangermouse.net/esoteric/ook.html)
+- .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 - .php - [PHP](https://en.wikipedia.org/wiki/PHP)
 - .pl - [Perl](https://en.wikipedia.org/wiki/Perl)
 - .ps1 - [Powershell](https://en.m.wikipedia.org/wiki/PowerShell)
@@ -62,10 +66,8 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .trifh.pl - [Prolog](https://en.m.wikipedia.org/wiki/Prolog)
 - .ts - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
-- .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
-- .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .zig - [Zig](https://ziglang.org/)
 
 
 ## Language Counter
-61 Programming Languages - All which infinitely loop fard (*sigh*)
+64 Programming Languages - All which infinitely loop fard (*sigh*)
