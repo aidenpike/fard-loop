@@ -31,6 +31,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .go - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
 - .gosu - [Gosu](https://gosu-lang.github.io/)
 - .hs - [Haskell](https://en.wikipedia.org/wiki/Haskell)
+- .hx - [Haxe](https://en.wikipedia.org/wiki/Haxe)
 - .java - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - .jl - [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language))
 - .js - [Javascript](https://en.wikipedia.org/wiki/JavaScript)
@@ -69,4 +70,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-62 Programming Languages - All which infinitely loop fard (*sigh*)
+63 Programming Languages - All which infinitely loop fard (*sigh*)
