@@ -6,6 +6,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .adb - [ADA](https://en.wikipedia.org/wiki/Ada_(programming_language))
 - .arnoldc - [ArnoldC](https://github.com/lhartikk/ArnoldC)
 - .awk - [AWK](https://en.wikipedia.org/wiki/AWK)
+- .b - [B](https://en.wikipedia.org/wiki/B_(programming_language))
 - .bal - [Ballerina](https://ballerina.io/)
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
@@ -70,4 +71,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-63 Programming Languages - All which infinitely loop fard (*sigh*)
+64 Programming Languages - All which infinitely loop fard (*sigh*)
