@@ -1,7 +1,9 @@
 #include <iostream>
 
-int fard(){
-    while(true){
-        std::cout << "fard" << std::endl;
+using namespace std;
+
+int main() {
+    while (true){
+        cout << "fard" << endl;
     }
 }
