@@ -1,3 +1,3 @@
 for () {
-    "SPAM"
+    "fard"
 }
