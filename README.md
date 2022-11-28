@@ -45,6 +45,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .nim - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
 - .oi - [Oiseau](https://github.com/AshPixel/Oiseau)
 - .ook - [Ook](https://www.dangermouse.net/esoteric/ook.html)
+- .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 - .php - [PHP](https://en.wikipedia.org/wiki/PHP)
 - .pl - [Perl](https://en.wikipedia.org/wiki/Perl)
 - .ps1 - [Powershell](https://en.m.wikipedia.org/wiki/PowerShell)
@@ -65,11 +66,10 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .tcl - [TCL](https://en.wikipedia.org/wiki/Tcl)
 - .trifh.pl - [Prolog](https://en.m.wikipedia.org/wiki/Prolog)
 - .ts - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
+- .um - [Umka](https://github.com/vtereshkov/umka-lang)
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
-- .pas - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
-- .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .zig - [Zig](https://ziglang.org/)
 
 
 ## Language Counter
-65 Programming Languages - All which infinitely loop fard (*sigh*)
+66 Programming Languages - All which infinitely loop fard (*sigh*)
