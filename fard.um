@@ -1,0 +1,7 @@
+import "std.um"
+
+fn main() {
+  for i := 0; i > -1; i++ {
+    std.println("fard")
+  }
+}
