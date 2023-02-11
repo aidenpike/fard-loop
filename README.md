@@ -6,6 +6,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .adb - [ADA](https://en.wikipedia.org/wiki/Ada_(programming_language))
 - .arnoldc - [ArnoldC](https://github.com/lhartikk/ArnoldC)
 - .awk - [AWK](https://en.wikipedia.org/wiki/AWK)
+- .axe - [Axe](https://www.ticalc.org/about/)
 - .b - [B](https://en.wikipedia.org/wiki/B_(programming_language))
 - .bal - [Ballerina](https://ballerina.io/)
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
