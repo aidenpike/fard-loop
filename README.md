@@ -56,6 +56,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .raku - [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language))
 - .rb - [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 - .re - [Reason](https://reasonml.github.io/en/)
+- .rks - [RKS-16 Assembly](https://github.com/kryllyxofficial01/RKS-16)
 - .rkt - [Racket](https://racket-lang.org/)
 - .rs - [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 - .s - [x86 Assembly](https://en.m.wikipedia.org/wiki/X86_assembly_language)
