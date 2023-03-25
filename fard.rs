@@ -1,5 +1,5 @@
 fn main() {
-    while 1 == 1 {
+    while true {
         println!("fard");
     }
 }
