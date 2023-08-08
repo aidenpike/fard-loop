@@ -72,7 +72,8 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .um - [Umka](https://github.com/vtereshkov/umka-lang)
 - .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 - .zig - [Zig](https://ziglang.org/)
+- .ZOMBIE - [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html)
 
 
 ## Language Counter
-67 Programming Languages - All which infinitely loop fard (*sigh*)
+68 Programming Languages - All which infinitely loop fard (*sigh*)
