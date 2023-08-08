@@ -1,0 +1,8 @@
+FardLoop is a zombie
+summon
+    task Fard
+        shamble
+            say "Fard"
+        around
+    animate
+animate
