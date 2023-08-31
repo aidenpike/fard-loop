@@ -1,8 +1,6 @@
 #include <iostream>
 
-using namespace std;
-
-int main() {
+int main(){
     while (true){
         cout << "fard" << endl;
     }
