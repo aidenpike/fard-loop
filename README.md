@@ -15,6 +15,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bf - [Brainf\*ck](https://en.m.wikipedia.org/wiki/Brainfuck)
 - .brat - [Brat](https://github.com/presidentbeef/brat)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- .chpl - [Chapel](https://chapel-lang.org/docs/index.html)
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .coffee - [CoffeeScript](https://coffeescript.org/)
 - .cop - [Copper](https://github.com/copper-lang/copper)
