@@ -18,7 +18,6 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .chpl - [Chapel](https://chapel-lang.org/docs/index.html)
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .coffee - [CoffeeScript](https://coffeescript.org/)
-- .cop - [Copper](https://github.com/copper-lang/copper)
 - .cpp - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - .cr - [Crystal](https://crystal-lang.org/reference/1.6/index.html)
 - .cs - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -77,4 +76,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-69 Programming Languages - All which infinitely loop fard (*sigh*)
+68 Programming Languages - All which infinitely loop fard (*sigh*)
