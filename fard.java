@@ -1,6 +1,5 @@
 public class fard {
-    //Forced to put main :(
-    public static main(String[] args){
+    public static void main(String[] args){
         while (true){
             System.out.println("fard"); 
         }
