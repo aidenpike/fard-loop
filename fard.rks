@@ -2,23 +2,18 @@
 nop
 
 ; f
-ldi @a 102
-poke @a 0xFFFF
+putc 102
 
 ; a
-ldi @a 97
-poke @a 0xFFFF
+putc 97
 
 ; r
-ldi @a 114
-poke @a 0xFFFF
+putc 114
 
 ; d
-ldi @a 100
-poke @a 0xFFFF
+putc 100
 
 ; line feed
-ldi @a 10
-poke @a 0xFFFF
+put c
 
 jmp fard
