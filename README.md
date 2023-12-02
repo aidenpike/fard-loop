@@ -65,6 +65,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .scm - (Actual hellfire) [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 - .sh - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - .spwn - [SPWN](https://spu7nix.net/spwn/#/)
+- .sol - [Solidity](https://docs.soliditylang.org/en/v0.8.23/)
 - .swift - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - .tcl - [TCL](https://en.wikipedia.org/wiki/Tcl)
 - .trifh.pl - [Prolog](https://en.m.wikipedia.org/wiki/Prolog)
