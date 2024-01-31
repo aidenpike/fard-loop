@@ -1,0 +1,12 @@
+======= DreamBerdFard.db3 =======
+   const const g_sFard = fard!
+   const var g_bLoop = false!
+   when (g_bLoop == false) {
+g_bLoop = ;g_bLoop!
+   } else {
+reverse!
+   }
+
+   print({g_sFard})!
+
+   reverse!
