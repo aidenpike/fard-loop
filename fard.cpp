@@ -2,7 +2,7 @@
 
 int main(){
     while (true) {
-        std::cout << "fard" << endl;
+        std::cout << "fard" << std::endl;
     }
 
     return 0;
