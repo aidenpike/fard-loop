@@ -1,0 +1,13 @@
+/* You may have to select a database in order to run. */
+
+DROP PROCEDURE IF EXISTS FARD;
+delimiter $$
+CREATE PROCEDURE FARD()
+BEGIN
+    WHILE 1 DO
+        SELECT 'fard';
+    END WHILE;
+END;
+$$
+
+CALL FARD;
