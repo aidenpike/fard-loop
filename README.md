@@ -45,6 +45,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .lua - [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
 - .m - (garbage) [Objective C](https://en.wikipedia.org/wiki/Objective-C)
 - .mli - [OCaml](https://ocaml.org/)
+- .mysql - [MySQL](https://www.mysql.com/)
 - .nim - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
 - .oi - [Oiseau](https://github.com/AshPixel/Oiseau)
 - .ook - [Ook](https://www.dangermouse.net/esoteric/ook.html)
@@ -78,4 +79,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-69 Programming Languages - All which infinitely loop fard (*sigh*)
+70 Programming Languages - All which infinitely loop fard (*sigh*)
