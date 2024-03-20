@@ -44,6 +44,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .lol - [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
 - .lua - [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
 - .m - (garbage) [Objective C](https://en.wikipedia.org/wiki/Objective-C)
+- .magik - [Magik](https://en.wikipedia.org/wiki/Magik_(programming_language)?scrlybrkr=dfed5093#)
 - .mli - [OCaml](https://ocaml.org/)
 - .mysql - [MySQL](https://www.mysql.com/)
 - .nim - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
