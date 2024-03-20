@@ -1,0 +1,4 @@
+_while true
+_loop
+  write("fard")
+_endloop
