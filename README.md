@@ -33,6 +33,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .fs - [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 - .go - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
 - .gosu - [Gosu](https://gosu-lang.github.io/)
+- .hc - [Holy C](https://holyc-lang.com)
 - .hs - [Haskell](https://en.wikipedia.org/wiki/Haskell)
 - .hx - [Haxe](https://en.wikipedia.org/wiki/Haxe)
 - .ino - [Arduino](https://www.arduino.cc/)
