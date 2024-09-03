@@ -3,6 +3,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 ## Extension List
 - .abap - [ABAP](https://en.wikipedia.org/wiki/ABAP)
+- .abc - [ABC](https://homepages.cwi.nl/~steven/abc/)
 - .adb - [ADA](https://en.wikipedia.org/wiki/Ada_(programming_language))
 - .arnoldc - [ArnoldC](https://github.com/lhartikk/ArnoldC)
 - .awk - [AWK](https://en.wikipedia.org/wiki/AWK)
@@ -82,4 +83,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-73 Programming Languages - All which infinitely loop fard (*sigh*)
+74 Programming Languages - All which infinitely loop fard (*sigh*)
