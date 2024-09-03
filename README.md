@@ -82,4 +82,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-72 Programming Languages - All which infinitely loop fard (*sigh*)
+73 Programming Languages - All which infinitely loop fard (*sigh*)
