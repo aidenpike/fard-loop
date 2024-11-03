@@ -16,7 +16,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bf - [Brainf\*ck](https://en.m.wikipedia.org/wiki/Brainfuck)
 - .brat - [Brat](https://github.com/presidentbeef/brat)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-- .chpl - [Chapel](https://chapel-lang.org/docs/index.html)
+- .chpl - [LabVIEWChapel](https://chapel-lang.org/docs/index.html)
 - .clj - [Clojure](https://en.wikipedia.org/wiki/Clojure)
 - .cob - [COBOL](https://en.wikipedia.org/wiki/COBOL)
 - .coffee - [CoffeeScript](https://coffeescript.org/)
@@ -77,10 +77,11 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .trifh.pl - [Prolog](https://en.m.wikipedia.org/wiki/Prolog)
 - .ts - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 - .um - [Umka](https://github.com/vtereshkov/umka-lang)
-- .vb - (also garbage) [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
+- .vb - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
+- .vi - [LabVIEW](https://www.ni.com/en/support/downloads/software-products/download.labview.html#544096)
 - .zig - [Zig](https://ziglang.org/)
 - .ZOMBIE - [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html)
 
 
 ## Language Counter
-74 Programming Languages - All which infinitely loop fard (*sigh*)
+75 Programming Languages - All which infinitely loop fard (*sigh*)
